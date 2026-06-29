@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise CRM",
+  "description": "A premium SaaS-style Enterprise Customer Relationship Management system featuring dynamic dashboards, interactive pipeline Kanban, lead and customer management, and smart communications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
